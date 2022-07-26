@@ -1,9 +1,6 @@
 # Final_Project
 Object-Oriented Programming project.
 Save The King Project
-Submitted by:
-Nadav Malul, ID: 206762973
-Ely Asaraf, ID: 319027355 
 
 Intro
 At this game your goal is to get the king to its throne. 
